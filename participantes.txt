@@ -1,10 +1,16 @@
 Listado de participantes:
 
 Pablo
+<<<<<<< HEAD
+Miguel
 Hugo
+=======
+Hugo
+Miguel y algo mas s
 
 
 
 
 
 Linea final
+>>>>>>> a42adad4ed8b4ddad745ace3fc7dcd6910acfbc6
