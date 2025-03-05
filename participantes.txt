@@ -2,6 +2,9 @@ Listado de participantes:
 
 Pablo
 <<<<<<< HEAD
+Sergio
+=======
+<<<<<<< HEAD
 Miguel
 Hugo
 =======
@@ -9,8 +12,8 @@ Hugo
 Miguel y algo mas s
 
 
-
-
+callaros ya 
 
 Linea final
 >>>>>>> a42adad4ed8b4ddad745ace3fc7dcd6910acfbc6
+>>>>>>> f11852806370c226e5568c4ac2cca65b7a435264
